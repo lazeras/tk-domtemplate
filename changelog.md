@@ -31,4 +31,4 @@ Ver 1.0.3 [2013-12-13]:
  - Tag: Restore trunk composer.json
 
 
-
+forked for editing
