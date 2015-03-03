@@ -1,5 +1,5 @@
 {
-    "name": "ttek/tk-domtemplate",
+    "name": "ttek/kaos-domtemplate",
     "type": "library",
     "description": "A PHP DOM Template library using XML/HTML files for templates",
     "keywords": ["Dom", "tropotek", "dom-template"],
